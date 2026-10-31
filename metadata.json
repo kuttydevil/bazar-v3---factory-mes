@@ -1,0 +1,8 @@
+{
+  "name": "BAZAR V3 - Table Saw Dispatch & PDF Matrix MES",
+  "description": "Industrial table saw dispatch and PDF matrix MES system for OpenCutList HTML parsing, rip-cut sequence tracking, Saw 1 & Saw 2 capacity, and 100x50mm thermal labeling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
